@@ -1,0 +1,10 @@
+git init 깃 관리 프로그램 설치
+git status 깃 상황 표기
+git 
+ls -al
+cd .git
+ls
+ls -a 숨김파일 보기
+
+git config --global user.email "이메일"
+git config -- global user.name "이름"
