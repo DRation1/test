@@ -1,5 +1,5 @@
 week02
--linux commands: ls, ls -al, ls -a, pwd, cd .git, cd
+-linux commands: ls, ls -al, ls -a, pwd, cd .git, cd, echo "text" >> README.md, cat README.md
 -git commands:
  git init
  git status
@@ -8,4 +8,8 @@ week02
  git config --global.user.name "name" 
  git commit -m "v0"
  git log
+ cat 텍스트파일명
+ git checkout hashcode
+ git checkout -
+ git branch -M main
  
